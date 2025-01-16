@@ -1,9 +1,12 @@
 ![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Preesika Dhanapala</h1>
-<h3 align="center">Undergraduate | UI/UX Engineer </h3>
-<p align="center"> I am an ambitious undergraduate specializing in Business Intelligence at Uva Wellassa University, Sri Lanka. 🌐 Passionate about BI, I am skilled in data analysis, data mining, and BI tools, with a strong interest in UI/UX design.💻 I am eager to apply my skills to innovative projects during my internship and believe my dedication and problem solving abilities will make me a valuable team member.🛠️</p>
+<h1 align="center">Hi 👋, I'm Preesika S. Dhanapala</h1>
+<h3 align="center">Undergraduate | Software Quality Assurance | UI/UX Designer </h3>
+<p align="center"> I am an ambitious undergraduate specializing in Business Intelligence at Uva Wellassa University, Sri Lanka. 
+<br>🌐 Skilled in data analysis, UI/UX design, and passionate about software quality assurance, I am eager to pursue opportunities in this field.
+<br>💻 With a strong understanding of systematic testing and a passion for ensuring software reliability,
+<br>I am eager to apply my skills to innovative projects during my internship, <br>confident that my dedication and problem-solving abilities will make me a valuable team member.🛠️</br></p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=preesika&label=Profile%20views&color=0e75b6&style=flat" alt="Preesika Dhanapala" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -31,11 +34,11 @@
 
 - 🔭 I’m currently working on **Android Apps Developing**
 
-- 🌱 I’m currently learning **Python, Flutter,QA**
+- 🌱 I’m currently learning **Python, QA, TestNG, Java, Mysql**
 
 - 📝 I regularly write articles on [https://medium.com/@preesika.sr](https://medium.com/@preesika.sr)
 
-- 💬 Ask me about **C, Java, Flutter, HTML, Python**
+- 💬 Ask me about **C, Java, HTML, Python, QA**
 
 - 📫 How to reach me **preesika.sr@gmail.com**
 
