@@ -83,10 +83,17 @@
   </a>
 </p>
 
+- QA
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,selenium" />
+  </a>
+</p>
+
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
   </a>
 </p>
 
