@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Preesika S. Dhanapala</h1>
-<h3 align="center">Undergraduate | QA Engineer | UI/UX Designer </h3>
+<h3 align="center">Undergraduate UI/UX Designer </h3>
 <p align="center"> I am an ambitious undergraduate specializing in Business Intelligence at Uva Wellassa University, Sri Lanka. 
 <br>🌐 Skilled in data analysis, UI/UX design, and passionate about software quality assurance, I am eager to pursue opportunities in this field.
 <br>💻 With a strong understanding of systematic testing and a passion for ensuring software reliability,
