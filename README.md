@@ -4,9 +4,10 @@
 <h1 align="center">Hi 👋, I'm Preesika S. Dhanapala</h1>
 <h3 align="center">Undergraduate UI/UX Designer </h3>
 <p align="center"> I am an ambitious undergraduate specializing in Business Intelligence at Uva Wellassa University, Sri Lanka. 
-<br>🌐 Skilled in data analysis, UI/UX design, and passionate about software quality assurance, I am eager to pursue opportunities in this field.
-<br>💻 With a strong understanding of systematic testing and a passion for ensuring software reliability,
-<br>I am eager to apply my skills to innovative projects during my internship, <br>confident that my dedication and problem-solving abilities will make me a valuable team member.🛠️</br></p>
+<br>🌐I am a creative UI/UX Designer with a strong focus on user-centered design. Through my academic projects, I have built a solid foundation in design principles and problem-solving. 
+<br>💻 Now, I am eager to develop my skills in the industry and apply what I have learned to real-world projects. I am excited to gain hands-on experience and see how UI/UX design is used professionally. 
+<br>My goal is to grow as a UI/UX Engineer and make a meaningful impact in the field.🛠️</br></p>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=preesika&label=Profile%20views&color=0e75b6&style=flat" alt="Preesika Dhanapala" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
