@@ -128,30 +128,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>📈 GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=preesika&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Preesika's GitHub Stats"
-  />
-</p>
 
 
 
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>📊 GitHub Activity</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=preesika&theme=github-compact&hide_border=true"
-    alt="Preesika's GitHub Activity Graph"
-  />
-</p>
-<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
