@@ -98,6 +98,44 @@
   </a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+
+<h4>📊 Data Analytics & BI</h4>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/>
+</p>
+
+<h4>💻 Programming & Data Processing</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+</p>
+
+<h4>🗄️ Database & SQL</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+</p>
+
+<h4>⚙️ Data Engineering</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="45" height="45"/>
+</p>
+
+<h4>🎨 UI/UX Design</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+</p>
+
+<h4>🛠️ Tools & Version Control</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+</p>
+
+
 - QA
 <p align="left">
   <a href="https://skillicons.dev">
