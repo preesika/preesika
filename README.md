@@ -2,11 +2,15 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Preesika S. Dhanapala</h1>
-<h3 align="center">Undergraduate UI/UX Designer </h3>
-<p align="center"> I am an ambitious undergraduate specializing in Business Intelligence at Uva Wellassa University, Sri Lanka. 
-<br>🌐I am a creative UI/UX Designer with a strong focus on user-centered design. Through my academic projects, I have built a solid foundation in design principles and problem-solving. 
-<br>💻 Now, I am eager to develop my skills in the industry and apply what I have learned to real-world projects. I am excited to gain hands-on experience and see how UI/UX design is used professionally. 
-<br>My goal is to grow as a UI/UX Engineer and make a meaningful impact in the field.🛠️</br></p>
+<h3 align="center"> Data Analyst | Business Intelligence | Data Engineering | UI/UX Design </h3>
+<p align="center"> I am a Business Intelligence graduate with hands-on experience in data analysis, reporting, dashboard development, and UI/UX design. 
+<br>📊 Experienced in **Excel and Power BI** for data cleaning, analysis, reporting, and data visualization.
+<br>💼 Completed a **6-month Data Analyst internship at MAS**, working with sourcing and supply chain data.
+<br>🗄️ Building practical data projects using **SQL, PostgreSQL, Python, Pandas, and Power BI**.
+<br>🎨 I also have experience in **UI/UX Design**, including user research, wireframing, prototyping, and interface design using Figma.
+<br>🚀 My portfolio includes end-to-end **Data Analytics / Data Engineering projects** as well as **UI/UX projects**.
+<br>🎯 Currently seeking opportunities in **Data Analytics, Business Intelligence, and Data Engineering**.
+</br></p>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=preesika&label=Profile%20views&color=0e75b6&style=flat" alt="Preesika Dhanapala" /> 
