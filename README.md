@@ -135,10 +135,6 @@
 <br><br>
 
 
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 
