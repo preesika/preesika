@@ -56,10 +56,11 @@
 <a href="https://www.instagram.com/preesika__s.r/profilecard/?igsh=MW15MmZnZjdxcmFk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="mailto:preesika.sr@gmail.com" target="_blank">
   <img align="center"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       alt="email"
-       height="40"
+       src="https://cdn.simpleicons.org/gmail"
+       alt="Gmail"
+       height="30"
        width="40" />
+</a>
 </a>
 </a>
 </p>
