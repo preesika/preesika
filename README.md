@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I'm Preesika S. Dhanapala</h1>
 <h3 align="center"> Data Analyst | Business Intelligence | Data Engineering | UI/UX Design </h3>
 <p align="center"> I am a Business Intelligence graduate with hands-on experience in data analysis, reporting, dashboard development, and UI/UX design. 
-<br>📊 Experienced in **Excel and Power BI** for data cleaning, analysis, reporting, and data visualization.
-<br>💼 Completed a **6-month Data Analyst internship at MAS**, working with sourcing and supply chain data.
-<br>🗄️ Building practical data projects using **SQL, PostgreSQL, Python, Pandas, and Power BI**.
-<br>🎨 I also have experience in **UI/UX Design**, including user research, wireframing, prototyping, and interface design using Figma.
-<br>🚀 My portfolio includes end-to-end **Data Analytics / Data Engineering projects** as well as **UI/UX projects**.
-<br>🎯 Currently seeking opportunities in **Data Analytics, Business Intelligence, and Data Engineering**.
+<br>📊 Experienced in Excel and Power BI for data cleaning, analysis, reporting, and data visualization.
+<br>💼 Completed a 6-month Data Analyst internship at MAS**, working with sourcing and supply chain data.
+<br>🗄️ Building practical data projects using SQL, PostgreSQL, Python, Pandas, and Power BI.
+<br>🎨 I also have experience in UI/UX Design, including user research, wireframing, prototyping, and interface design using Figma.
+<br>🚀 My portfolio includes end-to-end Data Analytics / Data Engineering projects as well as UI/UX projects.
+<br>🎯 Currently seeking opportunities in Data Analytics, Business Intelligence, and Data Engineering.
 </br></p>
 
 <p align="center"> 
