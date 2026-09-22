@@ -37,15 +37,16 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 <br><br>
 
-- 🔭 I’m currently working on **Android Apps Developing**
+- 🔭 I’m currently working on **Data Analytics & Data Engineering Projects**
 
-- 🌱 I’m currently learning **Python, QA, TestNG, Java, Mysql**
+- 🌱 I’m currently developing my skills in **SQL, PostgreSQL, Python, Pandas, Power BI & DAX**
 
-- 📝 I regularly write articles on [https://medium.com/@preesika.sr](https://medium.com/@preesika.sr)
+- 📊 I have hands-on experience in **Data Analysis, Data Cleaning, Reporting & Dashboard Development**
 
-- 💬 Ask me about **C, Java, HTML, Python, QA**
+- 🎨 I also have experience in **UI/UX Design using Figma**
 
-- 📫 How to reach me **preesika.sr@gmail.com**
+- 💬 Ask me about **Power BI, SQL, Python, Excel, Data Analytics & UI/UX Design**
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
